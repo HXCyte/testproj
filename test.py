@@ -1,3 +1,3 @@
 function hij(x):
 	return x
-print(hij(48))
+print(hij(5898))
